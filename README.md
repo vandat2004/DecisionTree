@@ -53,3 +53,5 @@ Trực quan hóa kết quả – Thay vì chạy mô hình trong terminal khô k
 
 Mở rộng nghiên cứu – Cấu trúc ứng dụng có thể dễ dàng mở rộng thêm các thuộc tính khác của nấm hoặc thay đổi sang mô hình Machine Learning khác (Random Forest, SVM, Neural Network).
 
+<img width="858" height="397" alt="{CC7AB042-8E44-4EDE-86AD-2C1FB7574CD5}" src="https://github.com/user-attachments/assets/6bc6fa9b-ea75-4a9f-89d7-4b6f689692fa" />
+
